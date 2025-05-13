@@ -35,10 +35,12 @@ services:
       - PMA_HOST=db
       - PMA_PORT=${MYSQLDB_LOCAL_PORT}
       - PMA_ARBITRARY=1
+      - UPLOAD_LIMIT=256M
+      - MAX_EXECUTION_TIME=900
     ports:
-      - ${PMA_EXPOSE_PORT}:80
+      - ${PMA_EXPOSE_PORT:-8089}:80
     expose:
-      - ${PMA_EXPOSE_PORT}
+      - ${PMA_EXPOSE_PORT:-8089}
     depends_on:
       - db
     
