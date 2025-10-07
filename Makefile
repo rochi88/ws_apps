@@ -17,6 +17,12 @@ stop_pgsql:
 	@docker compose -f ./postgresql/docker-compose.yaml down
 
 start_airflow:
+	@echo "Checking Redis Server"
+	@docker compose -f ./redis/docker-compose.yaml up -d
+	@echo "Redis Server is up and running"
+	@echo "Checking PostgreSQL Server"
+	@docker compose -f ./postgresql/docker-compose.yaml up -d
+	@echo "PostgreSQL Server is up and running"
 	@echo "Starting Airflow"
 	@docker compose -f ./airflow/docker-compose.yaml up -d
 
