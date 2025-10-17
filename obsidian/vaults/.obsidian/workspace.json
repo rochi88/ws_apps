@@ -11,17 +11,14 @@
             "id": "684bb074f6dd4713",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ws_octopus/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "ws_raisul/Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -184,10 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "684bb074f6dd4713",
+  "active": "fb6b0a23703f85eb",
   "lastOpenFiles": [
+    "ws_octopus/Untitled.canvas",
+    "ws_raisul/Notes.md",
     "ws_octopus/Untitled Kanban.md",
-    "ws_raisul/Untitled 1.base",
-    "ws_raisul/Untitled.md"
+    "ws_raisul/Untitled 1.base"
   ]
 }
