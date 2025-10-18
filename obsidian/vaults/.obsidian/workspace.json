@@ -11,14 +11,17 @@
             "id": "684bb074f6dd4713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ws_raisul/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "ws_octopus/Untitled.canvas",
+                "viewState": {
+                  "x": -535,
+                  "y": -150,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -154,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -181,11 +184,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb6b0a23703f85eb",
+  "active": "684bb074f6dd4713",
   "lastOpenFiles": [
-    "ws_octopus/Untitled.canvas",
+    "ws_octopus/Welcome.md",
+    "ws_raisul/Welcome.md",
+    "ws_raisul/Untitled.canvas",
+    "ws_raisul/Untitled.base",
     "ws_raisul/Notes.md",
-    "ws_octopus/Untitled Kanban.md",
-    "ws_raisul/Untitled 1.base"
+    "ws_octopus/Untitled.canvas",
+    "ws_octopus/Office Kanban.md",
+    "Excalidraw/Drawing 2025-10-16 11.34.51.excalidraw.md",
+    "Excalidraw",
+    "ws_raisul/Untitled 1.base",
+    "ws_raisul/Untitled.md"
   ]
 }

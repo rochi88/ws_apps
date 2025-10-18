@@ -1,6 +1,6 @@
 ---
 services:
-  db:
+  postgresqldb:
     image: postgres:latest
     restart: always
     env_file:

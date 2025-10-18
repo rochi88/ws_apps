@@ -1,6 +1,6 @@
 ---
 services:
-  db:
+  mysqldb:
     image: mysql:8.0
     restart: unless-stopped
     # restart: always
@@ -32,7 +32,7 @@ services:
       - ./.env
     environment:
       - MYSQL_ROOT_PASSWORD=${MYSQLDB_ROOT_PASSWORD}
-      - PMA_HOST=db
+      - PMA_HOST=mysqldb
       - PMA_PORT=${MYSQLDB_LOCAL_PORT}
       - PMA_ARBITRARY=1
       - UPLOAD_LIMIT=256M
@@ -42,7 +42,7 @@ services:
     expose:
       - ${PMA_EXPOSE_PORT:-8089}
     depends_on:
-      - db
+      - mysqldb
     
 
 # Names our volume
