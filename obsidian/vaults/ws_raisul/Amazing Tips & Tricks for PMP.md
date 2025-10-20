@@ -1,0 +1,102 @@
+Source : https://www.linkedin.com/pulse/amazing-tips-tricks-pmp-pmp-pmi-acp-dassm-dasm-cgia-fcs-clssgb-hjdlc/ 
+ 
+- Follow change management procedures rather than making unplanned changes.
+- Be adaptive to team needs rather than enforcing standardization and uniformity.
+- Choose actions that solve problems directly rather than those that hide issues.
+- Take responsibility in crises rather than shifting it to others.
+- Regularly learn from past lessons rather than repeating mistakes.
+- Avoid making commitments due to pressure rather than compromising project goals.
+- Stay receptive to changing customer needs rather than ignoring them.
+- Present your perspective to influential stakeholders rather than remaining silent.
+- Foster open communication rather than creating information silos.
+- Encourage creative problem-solving rather than sticking to conventional methods.
+- Use iterative approaches for complex projects rather than linear planning.
+- Utilize data-driven decisions rather than relying on intuition.
+- Promote a positive project culture rather than allowing negativity.
+- Ensure timely stakeholder communication rather than delaying updates.
+- Emphasize continuous learning rather than a static knowledge base.
+- Implement best practices from past projects rather than reinventing the wheel.
+- Focus on risk prevention rather than reactive measures.
+- Choose collaboration tools instead of relying on manual coordination methods.
+- Adapt plans based on project dynamics rather than rigidly adhering to them.
+- Encourage stakeholder feedback rather than assuming satisfaction.
+- Maintain alignment with organizational strategy rather than pursuing irrelevant goals.
+- Encourage innovation and creativity rather than discouraging new ideas.
+- Address conflicts directly rather than avoiding them.
+- Optimize resources efficiently rather than wasting them.
+- Focus on outcomes rather than measuring just deliverables.
+- Use visual management tools rather than relying solely on written reports.
+- Be prepared for uncertainty rather than assuming predictability.
+- Encourage continuous feedback loops rather than end-of-project evaluations.
+- Prioritize actions that deliver value rather than low-impact activities.
+- Promote team empowerment rather than centralized control.
+- Choose ethical decision-making over shortcuts or expedient methods.
+- Support a diverse team environment rather than uniformity.
+- Incorporate stakeholder needs into the planning process rather than ignoring them.
+- Balance flexibility with structure rather than choosing one over the other.
+- Develop a project roadmap rather than a rigid timeline.
+- Encourage self-organizing teams rather than dictating roles and responsibilities.
+- Use predictive analysis to anticipate risks rather than reacting to them.
+- Foster a learning culture rather than penalizing mistakes.
+- Investigate the problem first rather than jumping to a solution.
+- Give autonomy and freedom to team members rather than micromanaging.
+- Attempt to solve problems directly rather than escalating them immediately.
+- Provide training or mentoring rather than replacing team members due to poor performance.
+- Communicate directly with the relevant person rather than involving intermediaries.
+- Choose face-to-face meetings whenever possible rather than relying on indirect methods.
+- Act as a servant leader rather than dictating every decision.
+- Consult with the team before making decisions rather than deciding unilaterally.
+- Be transparent in communication rather than withholding information.
+- Understand stakeholders' needs rather than assuming them.
+- Involve stakeholders in the process rather than isolating them.
+- Address stakeholders' concerns proactively rather than waiting for them to raise an issue.
+- Avoid removing or replacing team members hastily; try to resolve issues first.
+- Align project activities with the organizational vision rather than pursuing isolated goals.
+- Approach uncooperative members proactively rather than avoiding the issue.
+- Minimize mandatory meetings for virtual teams rather than overburdening them.
+- Adapt communication styles to suit stakeholders' preferences rather than sticking to one style.
+- Utilize earned value management rather than assumptions about project status.
+- Incorporate stakeholder feedback continuously rather than at the end.
+- Promote cross-functional collaboration rather than isolated department work.
+- Facilitate regular team-building activities rather than ignoring team dynamics.
+- Use scenario-based planning rather than fixed plans.
+- Maintain alignment with the project charter rather than deviating.
+- Promote a mindset of resilience rather than fragility.
+- Ensure all communication is clear and concise rather than vague or ambiguous.
+- Choose regular retrospectives in agile projects instead of conducting one-time lessons learned sessions.
+- Support inclusive decision-making rather than top-down directives.
+- Encourage diverse perspectives in problem-solving rather than uniform thinking.
+- Focus on long-term benefits rather than short-term gains.
+- Address conflicts proactively rather than waiting for escalation.
+- Promote data transparency across the project rather than information silos.
+- Ensure adaptability in project processes rather than rigid adherence to outdated methods.
+- Incorporate stakeholder value perspectives rather than focusing only on project metrics.
+- Ensure all stakeholders are informed rather than keeping information restricted.
+- Make data-driven decisions rather than relying on gut feelings.
+- Support proactive risk management rather than reactive crisis management.
+- Use agile frameworks where appropriate rather than forcing a single methodology.
+- Encourage transparent decision-making rather than closed-door discussions.
+- Monitor project health regularly rather than at the end.
+- Build high-performing teams rather than accepting mediocrity.
+- Optimize stakeholder engagement rather than minimum involvement.
+- Be open to change and adaptability rather than resisting new ideas.
+- Use scenarios for planning rather than a single-plan approach.
+- Align with legal and regulatory requirements rather than risking compliance.
+- Focus on value-based project delivery rather than time-based completion.
+- Maintain a balanced scorecard for evaluation rather than a single metric.
+- Choose face-to-face communication for resolving conflicts instead of using email or text.
+- Encourage constructive criticism rather than suppressing feedback.
+- Provide opportunities for mentorship rather than solely formal training.
+- Promote knowledge sharing across the team rather than knowledge hoarding.
+- Utilize benchmarking to improve processes rather than relying on internal standards.
+- Ensure project deliverables meet stakeholder expectations rather than minimum standards.
+- Integrate continuous improvement practices rather than periodic reviews.
+- Prioritize customer satisfaction rather than internal convenience.
+- Encourage the use of automated tools rather than manual tracking.
+- Promote a culture of accountability rather than shifting blame.
+- Embrace cultural differences within teams rather than imposing uniformity.
+- Focus on sustainability practices rather than short-term gains.
+- Encourage team collaboration rather than individual heroics.
+- Maintain transparency in status reports rather than selective reporting.
+- Use contingency planning rather than waiting for a crisis.
+- Choose incremental delivery instead of waiting until the final outputs are complete.
