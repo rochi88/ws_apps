@@ -23,15 +23,15 @@ Feel free to edit the other entries as you need.
 
 ## Start
 
-After setup, to start n8n you need to start docker-compose by executing the following command in the current folder.
+After setup, to start n8n you need to start `docker compose` by executing the following command in the current folder.
 
 ```shell
-docker-compose up -d
+docker compose up -d
 ```
 
 To stop execution:
 ```shell
-docker-compose stop
+docker compose stop
 ```
 
 ## Production
@@ -45,8 +45,8 @@ STAGE=production
 
 Commands to run after editing:
 ```shell
-docker-compose stop
-docker-compose up -d
+docker compose stop
+docker compose up -d
 ```
 
 **Important**: Only set as production after n8n works properly. Otherwise you may be blocked to obtain the SSL certificate at LetsEncrypt.
