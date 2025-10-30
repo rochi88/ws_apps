@@ -1,0 +1,1 @@
+- [Free Currency Exchange Rates API with 200+ Currencies & No Rate Limits](https://github.com/fawazahmed0/exchange-api)

@@ -11,12 +11,14 @@
             "id": "684bb074f6dd4713",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-16 11.34.51.excalidraw.md"
+                "file": "ws_raisul/Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-16 11.34.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
         ]
@@ -181,13 +183,14 @@
   },
   "active": "684bb074f6dd4713",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-16 11.34.51.excalidraw.md",
-    "ws_raisul/Amazing Tips & Tricks for PMP.md",
-    "ws_raisul/Watch Later.md",
-    "ws_raisul/Notes.md",
-    "ws_raisul/Welcome.md",
     "ws_raisul/Untitled.canvas",
     "ws_raisul/Untitled.base",
+    "ws_raisul/Stared Repository.md",
+    "ws_raisul/Watch Later.md",
+    "ws_raisul/Notes.md",
+    "Excalidraw/Drawing 2025-10-16 11.34.51.excalidraw.md",
+    "ws_raisul/Amazing Tips & Tricks for PMP.md",
+    "ws_raisul/Welcome.md",
     "ws_octopus/Welcome.md",
     "ws_octopus/Untitled.canvas",
     "ws_octopus/Office Kanban.md",
