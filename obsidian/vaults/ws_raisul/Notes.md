@@ -8,6 +8,8 @@ https://github.com/samirprakash/go-bank
 https://github.com/jonataserpa/microservices-app-bank-digital
 https://github.com/Lokie-codes/My_Digital_Bank
 
+https://github.com/GoogleCloudPlatform/bank-of-anthos **
+
 https://github.com/ericqu/iban_validation
 https://github.com/juspay/hyperswitch
 
@@ -16,6 +18,8 @@ https://crates.io/crates/rabia-banking-example
 https://crates.io/crates/accounting-core
 
 https://github.com/harisr92/accounting-blue/tree/main
+
+https://github.com/changtraisitinh/digital-bank-hub
 
 
 
