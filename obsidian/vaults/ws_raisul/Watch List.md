@@ -1,0 +1,3 @@
+- [Linux training academy](https://www.linuxtrainingacademy.com/best-self-hosted-software-open-source-web-apps/#software)
+-  strapi.io
+- 
